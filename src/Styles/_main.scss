@@ -1,0 +1,12 @@
+.main-grid{
+    border: 1px solid rgb(158, 158, 158);
+    height: 60vh;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 30px;
+}
+
+.main-sections{
+    height: 200px;
+    border: 1px solid darkgray;
+}
